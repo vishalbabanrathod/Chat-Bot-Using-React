@@ -1,8 +1,6 @@
 # React Chat-Bot using simple-react-chatbot
 ---
 
-[Live Demo](https://github.com/vishalbabanrathod/Chat-Bot_Using_React/edit/main/README.md)
-
 ##  About <a name = "about"></a>
 
 Project Purpose was people can efficiently solve his/her queries using chatbot
